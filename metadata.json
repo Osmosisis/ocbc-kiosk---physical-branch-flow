@@ -1,0 +1,5 @@
+{
+  "name": "OCBC Kiosk - Physical Branch Flow",
+  "description": "A high-fidelity kiosk experience for booking physical bank branch visits, generating priority QR passes with queue numbers and branch details.",
+  "requestFramePermissions": []
+}

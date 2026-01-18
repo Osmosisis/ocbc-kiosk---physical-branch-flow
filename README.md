@@ -3,16 +3,7 @@
 </div>
 
 # this is the prototype i took from google gemini ai, i used it for the main ui and stuff
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1RD6sXm-WwZympPths3glK_aatlpFlnIQ
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
+i used : https://ai.studio/apps/drive/1RD6sXm-WwZympPths3glK_aatlpFlnIQ for main prototyping of UI
 
 1. Install dependencies:
    `npm install`
